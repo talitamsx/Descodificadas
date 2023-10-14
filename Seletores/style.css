@@ -1,0 +1,44 @@
+* { 
+    margin-top: 10px;   
+    margin-left: 2%;
+    padding: 0;   
+} 
+
+div {
+    width: 200px;
+    height: 200px;
+    margin: 0.5px;
+}
+
+.container{
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    border: 0; 
+}
+
+.vermelho2 {
+    border: 1px solid black;
+    background-color: red;
+    margin: -0.5px;
+}
+
+.azul {  
+    border: none;
+    background-color: cyan;
+}
+
+.vermelho{
+    border: none;
+    background-color: red;
+}
+
+.verde{
+    border: none;
+    background-color: green;
+}
+
+.amarelo{
+    border: none;
+    background-color: yellow;
+}

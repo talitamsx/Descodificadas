@@ -1,0 +1,1 @@
+Tarefa 7 (Seletores) da Trilha 1 do curso Descodificadas
